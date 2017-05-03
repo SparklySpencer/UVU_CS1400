@@ -1,0 +1,12 @@
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Project_07\Project_07\bin\Debug\Project_07.exe.config
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Project_07\Project_07\bin\Debug\Project_07.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Project_07\Project_07\bin\Debug\Project_07.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Project_07\Project_07\obj\Debug\Project_07.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Project_07\Project_07\obj\Debug\Project_07.FrmDiceGameGUI.resources
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Project_07\Project_07\obj\Debug\Project_07.Properties.Resources.resources
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Project_07\Project_07\obj\Debug\Project_07.csproj.GenerateResource.Cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Project_07\Project_07\obj\Debug\Project_07.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Project_07\Project_07\obj\Debug\Project_07.pdb
+H:\UVU\Spring2015\CS-1400-002-003\Project_07\Project_07\bin\Debug\Project_07.exe.config
+H:\UVU\Spring2015\CS-1400-002-003\Project_07\Project_07\obj\Debug\Project_07.exe
+H:\UVU\Spring2015\CS-1400-002-003\Project_07\Project_07\obj\Debug\Project_07.pdb

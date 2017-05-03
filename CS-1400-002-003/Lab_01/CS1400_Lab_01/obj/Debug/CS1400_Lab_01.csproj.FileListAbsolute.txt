@@ -1,0 +1,12 @@
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\CS1400_Lab_01\CS1400_Lab_01\bin\Debug\CS1400_Lab_01.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\CS1400_Lab_01\CS1400_Lab_01\bin\Debug\CS1400_Lab_01.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\CS1400_Lab_01\CS1400_Lab_01\obj\Debug\CS1400_Lab_01.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\CS1400_Lab_01\CS1400_Lab_01\obj\Debug\CS1400_Lab_01.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\CS1400_Lab_01\CS1400_Lab_01\obj\Debug\CS1400_Lab_01.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Lab_01\CS1400_Lab_01\obj\Debug\CS1400_Lab_01.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Lab_01\CS1400_Lab_01\obj\Debug\CS1400_Lab_01.pdb
+G:\Documents\UVU\Spring2015\CS-1400-002-003\Lab_01\CS1400_Lab_01\obj\Debug\CS1400_Lab_01.exe
+G:\Documents\UVU\Spring2015\CS-1400-002-003\Lab_01\CS1400_Lab_01\obj\Debug\CS1400_Lab_01.pdb
+G:\Documents\UVU\Spring2015\CS-1400-002-003\Lab_01\CS1400_Lab_01\bin\Debug\CS1400_Lab_01.exe
+G:\Documents\UVU\Spring2015\CS-1400-002-003\Lab_01\CS1400_Lab_01\bin\Debug\CS1400_Lab_01.pdb
+G:\Documents\UVU\Spring2015\CS-1400-002-003\Lab_01\CS1400_Lab_01\obj\Debug\CS1400_Lab_01.csprojResolveAssemblyReference.cache

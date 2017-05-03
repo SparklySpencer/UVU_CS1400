@@ -1,0 +1,2 @@
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_15\Lab_15\bin\Debug\Lab_15.exe.config
+G:\Documents\UVU\Spring2015\CS-1400-002-003\Lab_15\Lab_15\bin\Debug\Lab_15.exe.config

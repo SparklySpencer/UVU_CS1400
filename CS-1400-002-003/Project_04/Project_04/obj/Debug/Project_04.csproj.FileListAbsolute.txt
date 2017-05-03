@@ -1,0 +1,9 @@
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Project_04\Project_04\bin\Debug\Project_04.exe.config
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Project_04\Project_04\bin\Debug\Project_04.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Project_04\Project_04\bin\Debug\Project_04.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Project_04\Project_04\obj\Debug\Project_04.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Project_04\Project_04\obj\Debug\Project_04.FrmSalesInvoice.resources
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Project_04\Project_04\obj\Debug\Project_04.Properties.Resources.resources
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Project_04\Project_04\obj\Debug\Project_04.csproj.GenerateResource.Cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Project_04\Project_04\obj\Debug\Project_04.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Project_04\Project_04\obj\Debug\Project_04.pdb

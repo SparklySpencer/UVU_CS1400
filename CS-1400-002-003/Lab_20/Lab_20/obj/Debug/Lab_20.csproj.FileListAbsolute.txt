@@ -1,0 +1,6 @@
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_20\Lab_20\bin\Debug\Lab_20.exe.config
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_20\Lab_20\bin\Debug\Lab_20.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_20\Lab_20\bin\Debug\Lab_20.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_20\Lab_20\obj\Debug\Lab_20.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_20\Lab_20\obj\Debug\Lab_20.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_20\Lab_20\obj\Debug\Lab_20.pdb

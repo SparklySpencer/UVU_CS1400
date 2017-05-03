@@ -1,0 +1,9 @@
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Project_02\Project_02\bin\Debug\Project_02.exe.config
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Project_02\Project_02\bin\Debug\Project_02.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Project_02\Project_02\bin\Debug\Project_02.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Project_02\Project_02\obj\Debug\Project_02.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Project_02\Project_02\obj\Debug\Project_02.FrmGoodGuys.resources
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Project_02\Project_02\obj\Debug\Project_02.Properties.Resources.resources
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Project_02\Project_02\obj\Debug\Project_02.csproj.GenerateResource.Cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Project_02\Project_02\obj\Debug\Project_02.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Project_02\Project_02\obj\Debug\Project_02.pdb

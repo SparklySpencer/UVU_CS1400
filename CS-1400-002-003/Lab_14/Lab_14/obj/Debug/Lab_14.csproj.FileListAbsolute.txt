@@ -1,0 +1,12 @@
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_14\Lab_14\bin\Debug\Lab_14.exe.config
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_14\Lab_14\bin\Debug\Lab_14.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_14\Lab_14\bin\Debug\Lab_14.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_14\Lab_14\obj\Debug\Lab_14.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_14\Lab_14\obj\Debug\Lab_14.Frm_ShippingRates.resources
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_14\Lab_14\obj\Debug\Lab_14.Properties.Resources.resources
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_14\Lab_14\obj\Debug\Lab_14.csproj.GenerateResource.Cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_14\Lab_14\obj\Debug\Lab_14.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_14\Lab_14\obj\Debug\Lab_14.pdb
+G:\Documents\UVU\Spring2015\CS-1400-002-003\Lab_14\Lab_14\bin\Debug\Lab_14.exe.config
+G:\Documents\UVU\Spring2015\CS-1400-002-003\Lab_14\Lab_14\obj\Debug\Lab_14.exe
+G:\Documents\UVU\Spring2015\CS-1400-002-003\Lab_14\Lab_14\obj\Debug\Lab_14.pdb

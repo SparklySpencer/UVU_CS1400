@@ -1,0 +1,12 @@
+c:\users\spencer\documents\visual studio 2015\Projects\Lab_24\Lab_24\bin\Debug\Lab_24.exe.config
+c:\users\spencer\documents\visual studio 2015\Projects\Lab_24\Lab_24\bin\Debug\Lab_24.exe
+c:\users\spencer\documents\visual studio 2015\Projects\Lab_24\Lab_24\bin\Debug\Lab_24.pdb
+c:\users\spencer\documents\visual studio 2015\Projects\Lab_24\Lab_24\obj\Debug\Lab_24.csprojResolveAssemblyReference.cache
+c:\users\spencer\documents\visual studio 2015\Projects\Lab_24\Lab_24\obj\Debug\Lab_24.exe
+c:\users\spencer\documents\visual studio 2015\Projects\Lab_24\Lab_24\obj\Debug\Lab_24.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_24\Lab_24\bin\Debug\Lab_24.exe.config
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_24\Lab_24\obj\Debug\Lab_24.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_24\Lab_24\obj\Debug\Lab_24.pdb
+H:\UVU\Spring2015\CS-1400-002-003\Lab_24\Lab_24\bin\Debug\Lab_24.exe.config
+H:\UVU\Spring2015\CS-1400-002-003\Lab_24\Lab_24\obj\Debug\Lab_24.exe
+H:\UVU\Spring2015\CS-1400-002-003\Lab_24\Lab_24\obj\Debug\Lab_24.pdb

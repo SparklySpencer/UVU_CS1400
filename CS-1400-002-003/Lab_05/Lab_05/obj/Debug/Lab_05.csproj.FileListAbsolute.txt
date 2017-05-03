@@ -1,0 +1,21 @@
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Lab_05\Lab_05\bin\Debug\Lab_05.exe.config
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Lab_05\Lab_05\bin\Debug\Lab_05.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Lab_05\Lab_05\bin\Debug\Lab_05.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Lab_05\Lab_05\obj\Debug\Lab_05.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Lab_05\Lab_05\obj\Debug\Lab_05.Properties.Resources.resources
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Lab_05\Lab_05\obj\Debug\Lab_05.csproj.GenerateResource.Cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Lab_05\Lab_05\obj\Debug\Lab_05.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Lab_05\Lab_05\obj\Debug\Lab_05.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Lab_05\Lab_05\obj\Debug\Lab_05.LblInput.resources
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_05\Lab_05\bin\Debug\Lab_05.exe.config
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_05\Lab_05\obj\Debug\Lab_05.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_05\Lab_05\obj\Debug\Lab_05.pdb
+G:\Documents\UVU\Spring2015\CS-1400-002-003\Lab_05\Lab_05\bin\Debug\Lab_05.exe.config
+G:\Documents\UVU\Spring2015\CS-1400-002-003\Lab_05\Lab_05\obj\Debug\Lab_05.exe
+G:\Documents\UVU\Spring2015\CS-1400-002-003\Lab_05\Lab_05\obj\Debug\Lab_05.pdb
+G:\Documents\UVU\Spring2015\CS-1400-002-003\Lab_05\Lab_05\bin\Debug\Lab_05.exe
+G:\Documents\UVU\Spring2015\CS-1400-002-003\Lab_05\Lab_05\bin\Debug\Lab_05.pdb
+G:\Documents\UVU\Spring2015\CS-1400-002-003\Lab_05\Lab_05\obj\Debug\Lab_05.csprojResolveAssemblyReference.cache
+G:\Documents\UVU\Spring2015\CS-1400-002-003\Lab_05\Lab_05\obj\Debug\Lab_05.FrmInOut.resources
+G:\Documents\UVU\Spring2015\CS-1400-002-003\Lab_05\Lab_05\obj\Debug\Lab_05.Properties.Resources.resources
+G:\Documents\UVU\Spring2015\CS-1400-002-003\Lab_05\Lab_05\obj\Debug\Lab_05.csproj.GenerateResource.Cache

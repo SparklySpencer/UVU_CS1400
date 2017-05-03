@@ -1,0 +1,7 @@
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Lab_08\Lab_08\bin\Debug\Lab_08.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Lab_08\Lab_08\bin\Debug\Lab_08.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Lab_08\Lab_08\obj\Debug\Lab_08.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Lab_08\Lab_08\obj\Debug\Lab_08.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Code Examples\Lab_08\Lab_08\obj\Debug\Lab_08.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_08\Lab_08\obj\Debug\Lab_08.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1400-002-003\Lab_08\Lab_08\obj\Debug\Lab_08.pdb

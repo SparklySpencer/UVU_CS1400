@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Project_05.Frm_ShipRate">
+    <Position X="0.5" Y="0.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAYBYAIIqClAAgCYQSJASFCCAEAQRokA4eWIgSACQA=</HashCode>
+      <FileName>Frm_ShipRate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_05.Program">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_05.ShippingLogic">
+    <Position X="5.25" Y="1.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAFACAAIAIGAAAAQAAAAQAAAAAAAACAAQAJDgAAEg=</HashCode>
+      <FileName>ShippingLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Project_05.SHIP_TYPES">
+    <Position X="5.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Frm_ShipRate.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Project_05.SHIP_PLACE">
+    <Position X="5.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAgEA=</HashCode>
+      <FileName>Frm_ShipRate.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Project_05.SHIP_COST">
+    <Position X="5.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAEAAAA=</HashCode>
+      <FileName>Frm_ShipRate.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
